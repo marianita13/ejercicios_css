@@ -1,0 +1,72 @@
+.uno{
+    border: solid 1px black;
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+}
+
+.dos{
+    border: solid 1px;
+    background-color: blueviolet;
+    height: 280px;
+    width: 280px;
+    position: absolute;
+    left:18px;
+    top: 18px;
+}
+
+.tres{
+    position: absolute;
+    border: solid 1px;
+    background-color: rgb(184, 46, 238);
+    height: 250px;
+    width: 250px;
+    left:34px;
+    top: 32px;
+}
+
+.cuatro{
+    position: absolute;
+    border: solid 1px;
+    background-color: rgb(252, 232, 53);
+    height: 220px;
+    width: 220px;
+    left: 50px;
+    top: 48px;
+}
+
+.cinco{
+    position: absolute;
+    border: solid 1px;
+    background-color: rgb(255, 30, 30);
+    height: 190px;
+    width: 190px;
+    left: 64px;
+    top: 62px;
+}
+
+.seis{
+    position: absolute;
+    border: solid 1px;
+    background-color: rgb(81, 252, 209);
+    height: 160px;
+    width: 160px;
+    left:80px;
+    top: 76px;
+}
+
+.siete{
+    position: absolute;
+    border: solid 1px;
+    background-color: rgb(132, 248, 152);
+    height: 135px;
+    width: 135px;
+    left:93px;
+    top: 88px;
+}
+
+.Siguiente{
+    position:absolute;
+    top: 320px;
+}

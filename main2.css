@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grande{
+    border: solid 2px;
+    height: 300px;
+    width: 300px;
+    position:relative;
+    margin: auto;
+}
+
+.uno{
+    position:absolute;
+    background-color: aquamarine;
+    height: 45px;
+    width: 45px;
+    top: 35px;
+    left: 35px;
+}
+
+.dos{
+    position:absolute;
+    background-color: rgb(173, 14, 14);
+    height: 45px;
+    width: 45px;
+    top: 35px;
+    left: 220px;
+}
+
+.tres{
+    position:absolute;
+    background-color: rgb(158, 69, 241);
+    height: 45px;
+    width: 45px;
+    top: 125px;
+    left: 125px;
+}
+
+.cuatro{
+    position:absolute;
+    background-color: rgb(123, 240, 69);
+    height: 45px;
+    width: 45px;
+    top: 215px;
+    left: 35px;
+}
+
+.cinco{
+    position:absolute;
+    background-color: rgb(74, 107, 255);
+    height: 45px;
+    width: 45px;
+    top: 215px;
+    left: 220px;
+}

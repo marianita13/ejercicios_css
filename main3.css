@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ventana{
+    border: solid 2px;
+    border-color: rgb(5, 148, 141);
+    height: 400px;
+    width: 400px;
+    position: relative;
+    margin: auto;
+    background-image: url(../css-pages/images/The_Last_of_Us_serie_poster.webp);
+    background-size: cover;
+}
+
+.uno{
+    position: relative;
+    border: solid 1px;
+    border-color: rgb(5, 148, 141);
+    height: 200px;
+    width: 200px;
+}
+
+.dos{
+    position: relative;
+    border: solid 1px;
+    border-color: rgb(5, 148, 141);
+    height: 200px;
+    width: 200px;
+    bottom: 2px;
+}
+
+.tres{
+    position: relative;
+    border: solid 1px;
+    border-color: rgb(5, 148, 141);
+    height: 200px;
+    width: 200px;
+    bottom: 400px;
+    left: 198px;
+}
+
+.cuatro{
+    position: relative;
+    border: solid 1px;
+    border-color: rgb(5, 148, 141);
+    height: 200px;
+    width: 200px;
+    bottom: 402px;
+    left: 198px;
+}
